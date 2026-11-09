@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.env
+ml/saved_models/*.joblib
+ml/saved_models/*.json
+ml/saved_models/*.png
+frontend/node_modules/
+frontend/dist/
